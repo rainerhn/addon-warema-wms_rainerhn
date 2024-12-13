@@ -183,7 +183,7 @@ function registerDevice(element) {
 
             break;
         default:
-            log.info('Unrecognized device type: ' + element.type)
+            log.info('Unrecognized device type detected: ' + element.type)
             model = 'Unknown model ' + element.type
             return
     }
