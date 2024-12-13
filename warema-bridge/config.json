@@ -8,7 +8,7 @@
   "url": "https://github.com/rainerhn/addon-warema-wms_rainerhn",
   "boot": "auto",
   "hassio_api": true,
-  "image": "rainerhn/addon-warema-bridge",
+  "image": "giannello/addon-warema-bridge",
   "options": {
     "wms_serial_port": null
   },
